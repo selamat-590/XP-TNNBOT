@@ -1,5 +1,5 @@
 # 👾Z-zxpBOT👾
-BOT WHATSAPP TERMUX ONLY BY XP-TN
+BOT WHATSAPP TERMUX ONLY BY Z-zxp
 <p align="center">
 <img src = "https://avatars3.githubusercontent.com/u/49530313?s=460&u=086c7b0d17c5b8e906200d810e88587f5c98e349&v=4" width="320">
 </p>
@@ -13,7 +13,7 @@ BOT WHATSAPP TERMUX ONLY BY XP-TN
 <a href="https://www.codefactor.io/repository/github/Z-zxp/XP-TNNBOT"><img title="Rating" src="https://www.codefactor.io/repository/github/Z-zxp/XP-TNNBOT/badge/master"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Z-zxp/XP-TNNBOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/XP-TN?color=blue&style=flat-square"></a>
+<a href="https://github.com/Z-zxp/XP-TNNBOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/Z-zxp?color=blue&style=flat-square"></a>
 <a href="https://github.com/Z-zxp/XP-TNNBOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Z-zxp/XP-TNNBOT?color=red&style=flat-square"></a>
 <a href="https://github.com/Z-zxp/XP-TNNBOT/network/members"><img title="Forks" src="http://img.shields.io/github/forks/Z-zxp/XP-TNNBOT?color=red&style=flat-square"></a>
 <a href="https://github.com/Z-zxp/XP-TNNBOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Z-zxp/XP-TNNBOT?label=Watchers&color=blue&style=flat-square"></a>
