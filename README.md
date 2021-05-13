@@ -13,10 +13,10 @@ BOT WHATSAPP TERMUX ONLY BY XP-TN
 <a href="https://www.codefactor.io/repository/github/XP-TN/XP-TNNBOT"><img title="Rating" src="https://www.codefactor.io/repository/github/XP-TN/XP-TNNBOT/badge/master"></a>
 </p>
 <p align="center">
-<a href="https://github.com/XP-TN/XP-TNNBOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/XP-TN?color=blue&style=flat-square"></a>
-<a href="https://github.com/XP-TN/XP-TNNBOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/XP-TN/XP-TNNBOT?color=red&style=flat-square"></a>
-<a href="https://github.com/XP-TN/XP-TNNBOT/network/members"><img title="Forks" src="http://img.shields.io/github/forks/XP-TN/XP-TNNBOT?color=red&style=flat-square"></a>
-<a href="https://github.com/XP-TN/XP-TNNBOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/XP-TN/XP-TNNBOT?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Z-zxp/XP-TNNBOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/XP-TN?color=blue&style=flat-square"></a>
+<a href="https://github.com/Z-zxp/XP-TNNBOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Z-zxp/XP-TNNBOT?color=red&style=flat-square"></a>
+<a href="https://github.com/Z-zxp/XP-TNNBOT/network/members"><img title="Forks" src="http://img.shields.io/github/forks/Z-zxp/XP-TNNBOT?color=red&style=flat-square"></a>
+<a href="https://github.com/Z-zxp/XP-TNNBOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Z-zxp/XP-TNNBOT?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXP-TN%2FXP-TNNBOT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Support&edge_flat=false"/></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
@@ -49,7 +49,7 @@ Thanks To Xp-tn for share script🛡
 ```bash
 >Jika error harap lapor ke owner pembuat skript
 > dan jika ada bug harap lapor ya😊
-> thanks for alfa chaliph xptn 
+> thanks for Z-zxp
 ```
 
 
@@ -61,14 +61,14 @@ Script ini di modifikasi sama saya sendiri XP-TN
 > jika error lapor ke Pembuat script chat wa link ada di github 
 ```
 ### Cara Installnya
-Script ini di modifikasi sama saya sendiri XP-TN.
+Script ini di modifikasi sama saya sendiri Z-zxp.
 ```bash
 kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > termux-setup-storage
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/XP-TN/XP-TNNBOT
+> git clone https://github.com/Z-zxp/XP-TNNBOT
 > cd XP-TNNBOT
 > npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
@@ -93,7 +93,7 @@ Github ini dan support😅
 ```
 ## Features
 
-| XP-TNBOT      |                   Feature        |
+| Z-zxp-TNBOT      |                   Feature        |
  :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
