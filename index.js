@@ -65,6 +65,7 @@ function foreach(arr, func)
    for (var i in arr)
    {
       func(i, arr[i]);
+	  
    }
 }
 const conn = new WAConnection()
